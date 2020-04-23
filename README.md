@@ -289,3 +289,7 @@ if let SomeEnum::Ok = x {
 }
 ```
 And that's it. It basically makes the code a little shorter, while improving readability a lot. Whenever you just need to get one value, it's often a better solution to use if let instead of match.
+
+#### To lead more about Rust Programming Language [click here](https://blog.knoldus.com/).
+#### To know about case-studies on Rust Programming Language [click here](https://www.knoldus.com/work/case-studies).
+#### To get the templates of Rust Programming Language [click here](https://techhub.knoldus.com/dashboard/projects/rust).
